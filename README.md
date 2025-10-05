@@ -45,10 +45,10 @@ Model: C1111-4P
 
 ## 🧪 Project Structure
 CiscoInfoExtractor/
-- ciscoinfoextractor.py
-- show_version.txt
-- README.md
-- License.md
+-- ciscoinfoextractor.py
+-- show_version.txt
+-- README.md
+-- License.md
  
 ## 👤 Author
 

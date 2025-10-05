@@ -48,7 +48,7 @@ CiscoInfoExtractor/
   -- ciscoinfoextractor.py
   -- show_version.txt
   -- README.md
-  -- License.md
+  -- LICENSE.md
  
 ## 👤 Author
 
